@@ -1,0 +1,1 @@
+redirections and special characters
